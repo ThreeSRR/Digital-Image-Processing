@@ -9,7 +9,7 @@
 
 
 
-## Sturcture
+### Sturcture
 
 [`hw1-1.py`](./hw1-1.py)为第一题代码
 

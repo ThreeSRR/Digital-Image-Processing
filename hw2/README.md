@@ -22,7 +22,7 @@
 
 
 
-### Sturcture
+### Structure
 
 [`hw2-1.py`](./hw2-1.py)为第一题代码
 
