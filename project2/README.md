@@ -12,9 +12,8 @@
 
 ### Structure
 
-- [`report.pdf`](./report.pdf)为实验报告
-- [`unet-code`](./unet-code/)为unet进行血管分割部分代码
-- [`unet-results`](./unet-results)为DRIVE数据集上血管分割、空域对齐与血管填充结果
+- [`unet-code/`](./unet-code/)为unet进行血管分割部分代码
+- [`unet-results/`](./unet-results/)为DRIVE数据集上血管分割、空域对齐与血管填充结果
 - [`color_normalization.py`](./color_normalization.py)为颜色归一化代码
 - [`dot_detection_and_align.py`](./dot_detection_and_align.py)为视盘中心检测、黄斑检测与空域对齐代码
 - [`vessel-removal.py`](./vessel_removal.py)为血管区域填充代码
